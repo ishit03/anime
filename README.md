@@ -1,0 +1,1 @@
+A sample application to demonstrate the use of OpenAPI generator with GetX state management.
